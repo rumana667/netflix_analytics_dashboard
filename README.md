@@ -1,6 +1,7 @@
 # netflix_analytics_dashboard
 
-📌 Short Description / Purpose
+📌 Short Description 
+
 This dashboard visualizes Netflix’s content data, analyzing over 7,900 shows, 4,100 directors, and 36 genres. It reveals patterns across global locations, release years, ratings, and more—empowering content strategists and decision-makers to evaluate the platform's content evolution and genre-wise popularity.
 
 🛠 Tech Stack
